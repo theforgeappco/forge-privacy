@@ -1,7 +1,6 @@
-# forge-privacy
-Forge Privacy Policy
 # Forge Privacy Policy
 
-Last updated: May 2026
+This repository contains the official Privacy Policy for the Forge nutrition tracking app.
 
-This is the official privacy policy for the Forge nutrition tracking app.
+**Live Policy:**  
+https://theforgeappco.github.io/forge-privacy/
